@@ -4,7 +4,7 @@
 
 **[下载最新安装包](https://github.com/Haroxa/graduate-assistant-releases/releases/latest)** · [查看历史版本](https://github.com/Haroxa/graduate-assistant-releases/releases) · [反馈问题](https://github.com/Haroxa/graduate-assistant-releases/issues)
 
-当前公开版本：[**0.55.2（87）**](https://github.com/Haroxa/graduate-assistant-releases/releases/tag/android-v0.55.2)，本周安排采用三层星期、日期、圆点导航与左侧日期牌，支持二／三进制数量设置和实时示例预览；固定日期牌高度，按实际余量适度增高记录，圆点与选中边框保留内间距。
+当前公开版本：[**0.55.3（88）**](https://github.com/Haroxa/graduate-assistant-releases/releases/tag/android-v0.55.3)，本周安排采用三层星期、日期、圆点导航与左侧日期牌，支持二／三进制数量设置和实时示例预览；固定日期牌高度，按实际余量放松顶部和三层周栏，矮尺寸与大字号自动收紧，保留完整记录及圆点边框内间距。
 
 ## 适用范围
 
