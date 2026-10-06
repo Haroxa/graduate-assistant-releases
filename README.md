@@ -4,7 +4,7 @@
 
 **[下载最新安装包](https://github.com/Haroxa/graduate-assistant-releases/releases/latest)** · [查看历史版本](https://github.com/Haroxa/graduate-assistant-releases/releases) · [反馈问题](https://github.com/Haroxa/graduate-assistant-releases/issues)
 
-当前公开版本：[**0.54.1（82）**](https://github.com/Haroxa/graduate-assistant-releases/releases/tag/android-v0.54.1)，本周安排统一为 4×2，始终保留七日选择、每日数量和所选日期，移除 4×3 新增入口。
+当前公开版本：[**0.54.2（83）**](https://github.com/Haroxa/graduate-assistant-releases/releases/tag/android-v0.54.2)，修复旧版系统 WebView 的课表页面兼容及桌面组件的时间数字等宽；本周安排仍默认 4×2，保留完整七日选择、数量和所选日期。
 
 ## 适用范围
 
